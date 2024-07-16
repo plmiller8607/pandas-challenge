@@ -1,2 +1,2 @@
 # pandas-challenge
-Analysis of district-wide standardized test results
+Analysis of high school reading and math standardized test results using Pandas and Jupiter notebook
